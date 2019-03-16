@@ -29,6 +29,6 @@
 * [如何保证消息中间件全链路数据100%不丢失（1）](https://juejin.im/post/5c3604abe51d45522a41f4b0)
 * [如何保证消息中间件全链路数据100%不丢失（2）](https://juejin.im/post/5c3759fe51882525616dbaf6)
 * [从团队自研的百万并发中间件系统的内核设计看Java并发性能优化](https://juejin.im/post/5c3f708151882524b333b67f)
-
+* [MQ消息可达性+幂等性+延时性架构设计](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651960382&idx=1&sn=72dae005c6662a936ea8fa80a4ed6001&chksm=bd2d01e28a5a88f400451195d2521ca668161364e3e62a9a42992299ce6baa5cbafa353d23d3&scene=21#wechat_redirect)
 
 
