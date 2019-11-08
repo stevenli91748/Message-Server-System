@@ -9,7 +9,11 @@
 * [MetaMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/MetaMQ/README.md)
 * [RocketMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/RocketMQ/README.md)
 
+# MQ视频
 
+ * [MQ落地化设计之12306购票业务细节分析与实战](https://www.bilibili.com/video/av58897341)
+ * [MQ落地化设计之美团App购票业务细节分析与实战](https://www.bilibili.com/video/av60261628)
+ * [70万年薪高并发架构技术RabbitMq美团App购票实战精讲版](https://www.bilibili.com/video/av60861746)
 
 # 有用的参考
 
