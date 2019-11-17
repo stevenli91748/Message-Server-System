@@ -16,6 +16,7 @@
  * [70万年薪高并发架构技术RabbitMq美团App购票实战精讲版](https://www.bilibili.com/video/av60861746)
 
 # 有用的参考
+* [消息中间件这么多，到底应该如何选型？](https://www.360kuai.com/pc/detail?url=http%3A%2F%2Fzm.news.so.com%2F4803fc734844e96d0f7b4f5ae061ec20&check=f7af8422c57e78b6&sign=360_8910f42c&uid=g1573983271791375009)
 
 * [消息队列常见的几种使用场景介绍](https://mp.weixin.qq.com/s/JTFiiCk0yd6XCSawz0WXBw)
 * [消息中间件如何选型？](https://mp.weixin.qq.com/s/mM0jSKv-dQpGzzEC0b9l4w)
@@ -36,5 +37,4 @@
 * [MQ消息可达性+幂等性+延时性架构设计](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651960382&idx=1&sn=72dae005c6662a936ea8fa80a4ed6001&chksm=bd2d01e28a5a88f400451195d2521ca668161364e3e62a9a42992299ce6baa5cbafa353d23d3&scene=21#wechat_redirect)
 * [如何保证消息不被重复消费？（如何保证消息消费时的幂等性）](https://www.javazhiyin.com/22910.html)
 * [如何保证消息的可靠性传输？（如何处理消息丢失的问题）](https://www.javazhiyin.com/22914.html)
-* [消息中间件这么多，到底应该如何选型？](https://www.360kuai.com/pc/detail?url=http%3A%2F%2Fzm.news.so.com%2F4803fc734844e96d0f7b4f5ae061ec20&check=f7af8422c57e78b6&sign=360_8910f42c&uid=g1573983271791375009)
 
