@@ -9,3 +9,7 @@
 * [70万年薪高并发架构技术RabbitMq美团App购票实战精讲版](https://www.bilibili.com/video/av60861746?from=search&seid=12463752655912745766)
 * [MQ落地化设计之美团App购票业务细节分析与实战](https://www.bilibili.com/video/av60261628?from=search&seid=12463752655912745766)
 * [BATJ面试必问的MQ消息丢失和消息重复的解决方案与实战](https://www.bilibili.com/video/av55175257?from=search&seid=10510532406565911924)
+
+# 有用的参考
+
+* [消息中间件MQ与RabbitMQ面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104588612)
