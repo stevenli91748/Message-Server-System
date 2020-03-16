@@ -12,3 +12,7 @@
 * [尚硅谷】大数据之Zookeeper](https://www.bilibili.com/video/av31971404?from=search&seid=8155618847316669100)
 * [zookeeper读写锁实现](https://www.bilibili.com/video/av73040190?from=search&seid=11244131792888282581)
 * [zookeeper集群部署](https://blog.csdn.net/rj1bww/article/details/72811383)
+
+
+# 有用的参考
+* [ZooKeeper面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397719)
