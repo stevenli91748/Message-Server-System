@@ -9,7 +9,7 @@
 * [kafka storm 干货](https://blog.csdn.net/qq_27384769/article/details/80113336)
 * [Kafka面试题！掌握它才说明你真正懂Kafka](https://mp.weixin.qq.com/s?__biz=MzA5NTUzNTA2Mw==&mid=2454933508&idx=1&sn=f993f90fd83c0eca8cd1b15a9b6db017&scene=21#wechat_redirect)
 
-
+* [Kafka 知识点大全](http://dockone.io/article/10017)
 
 
 152.kafka 可以脱离 zookeeper 单独使用吗？为什么？
