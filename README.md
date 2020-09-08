@@ -1,5 +1,9 @@
 # [Message-Server-System 面试](https://github.com/stevenli91748/Message-Server-System/blob/master/Interview.md)
 
+
+[什么是消息队列？](https://juejin.im/post/6844903817348136968)|
+---|
+
 # 目录
 
 * [ActiveMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/ActiveMQ/README.md)
