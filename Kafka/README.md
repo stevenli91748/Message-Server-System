@@ -1,5 +1,9 @@
 # [kafka面试知识点](https://github.com/stevenli91748/Big-Data/blob/master/kafka/interview/kafkainterview.md)
 
+
+[大白话 + 13 张图解 Kafka](https://zhuanlan.zhihu.com/p/103276657?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
+---|
+
 # Kafka 视频
 
 *  [尚硅谷大数据课程之Kafka（2019新版](https://www.bilibili.com/video/av65544753/?spm_id_from=333.788.videocard.1)
