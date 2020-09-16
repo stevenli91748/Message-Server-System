@@ -1,4 +1,7 @@
 
+[精尽 Zookeeper 学习指南](http://svip.iocoder.cn/Zookeeper/tutorials/)|
+---|
+
 [十年架构经验带你体验Zookeeper分布式应用协调最佳实践](https://www.bilibili.com/video/BV1rW411Z7YK)|
 ---|
 
