@@ -15,3 +15,4 @@
 # 有用的参考
 
 * [消息中间件MQ与RabbitMQ面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104588612)
+* [RabbitMQ延迟消息的极限是多少](http://blog.didispace.com/rabbitmq-deplay-message-max/)
