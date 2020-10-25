@@ -1,4 +1,4 @@
-# [kafka面试知识点](https://github.com/stevenli91748/Big-Data/blob/master/kafka/interview/kafkainterview.md)
+# [kafka面试知识点](https://github.com/stevenli91748/Message-Server-System/blob/master/Kafka/Interview/README.md)
 
 [精尽 Kafka 学习指南](http://svip.iocoder.cn/Kafka/tutorials/)|
 ---|
