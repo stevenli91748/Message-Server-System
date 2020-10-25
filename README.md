@@ -20,6 +20,7 @@
  * [70万年薪高并发架构技术RabbitMq美团App购票实战精讲版](https://www.bilibili.com/video/av60861746)
 
 # 有用的参考
+* [别在简历写秒杀系统了！我告诉你消息管理平台实现原理吧](https://zhuanlan.zhihu.com/p/258732579)
 * [消息中间件这么多，到底应该如何选型？](https://www.360kuai.com/pc/detail?url=http%3A%2F%2Fzm.news.so.com%2F4803fc734844e96d0f7b4f5ae061ec20&check=f7af8422c57e78b6&sign=360_8910f42c&uid=g1573983271791375009)
 
 * [消息队列常见的几种使用场景介绍](https://mp.weixin.qq.com/s/JTFiiCk0yd6XCSawz0WXBw)
