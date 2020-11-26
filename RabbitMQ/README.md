@@ -5,6 +5,10 @@
 [精尽 RabbitMQ 学习指南](http://svip.iocoder.cn/RabbitMQ/tutorials/)|
 ---|
 
+[RabbitMQ Server的安装](https://www.jianshu.com/p/f20729534088)|
+---|
+
+
 # RabbitMQ视频
 
 * [70万年薪高并发架构技术RabbitMq削峰限流机制听不懂算我输](https://www.bilibili.com/video/av46820750?from=search&seid=12463752655912745766)
