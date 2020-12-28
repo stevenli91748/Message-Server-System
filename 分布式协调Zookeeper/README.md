@@ -23,3 +23,4 @@
 
 # 有用的参考
 * [ZooKeeper面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397719)
+* [Docker 、kubernetes 分别部署zookeeper集群的方法](http://www.dev-share.top/2019/08/23/docker-%e3%80%81kubernetes-%e5%88%86%e5%88%ab%e9%83%a8%e7%bd%b2zookeeper%e9%9b%86%e7%be%a4%e7%9a%84%e6%96%b9%e6%b3%95/)
