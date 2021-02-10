@@ -1,5 +1,5 @@
 
-# [kafka面试知识点](https://github.com/stevenli91748/Message-Server-System/blob/master/Kafka/Interview/README.md)
+# [kafka面试知识点](https://mp.weixin.qq.com/s?__biz=MzIwNjg4MzY4NA==&mid=2247484084&idx=1&sn=e4384fc5ac7f72893c1b6404752ca312&chksm=971b9cbfa06c15a9a8dae4343c3afb565ac80abb379455ab2a40a36e14d667b71eed2f9e3f9e&scene=21#wechat_redirect)
 
 # Kafka 视频
 
