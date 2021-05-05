@@ -7,7 +7,7 @@
 ---|
 
 # Kafka 视频
-
+* [Kafka消息中间件内核源码深度剖析---收费视频](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_60687291e4b09134c98517fe/6)
 *  [尚硅谷大数据课程之Kafka（2019新版](https://www.bilibili.com/video/av65544753/?spm_id_from=333.788.videocard.1)
 *  [Kafka流处理平台](https://www.imooc.com/learn/1043)
 # 有用的参考
