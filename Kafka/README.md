@@ -3,6 +3,10 @@
 [精尽 Kafka 学习指南](http://svip.iocoder.cn/Kafka/tutorials/)|[安装kafka集群](https://www.kancloud.cn/suixiaofeng/linux/895363)|
 ---|---|
 
+[中华石彬---Kafka消息中间件内核源码深度剖析](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_60687291e4b09134c98517fe/6)|
+---|
+
+
 [大白话 + 13 张图解 Kafka](https://zhuanlan.zhihu.com/p/103276657?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
 ---|
 
