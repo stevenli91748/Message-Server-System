@@ -15,9 +15,9 @@
 * [ActiveMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/ActiveMQ/README.md)
 * [RabbitMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/RabbitMQ/README.md)
 * [ZeroMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/ZeroMQ/README.md)
-* [Kafka](https://github.com/stevenli91748/Message-Server-System/blob/master/Kafka/README.md)
 * [MetaMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/MetaMQ/README.md)
 * [RocketMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/RocketMQ/README.md)
+* [Kafka](https://github.com/stevenli91748/Message-Server-System/blob/master/Kafka/README.md)
 * [Pulsar]()
 
 # MQ视频
