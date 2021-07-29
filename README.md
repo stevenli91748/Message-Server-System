@@ -18,7 +18,7 @@
 * [MetaMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/MetaMQ/README.md)
 * [RocketMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/RocketMQ/README.md)
 * [Kafka](https://github.com/stevenli91748/Message-Server-System/blob/master/Kafka/README.md)
-* [Pulsar]()
+* [Pulsar---用于服务端到服务端的消息中间件]()
 
 # MQ视频
 
