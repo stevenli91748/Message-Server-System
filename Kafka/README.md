@@ -1,7 +1,7 @@
 # [kafka面试知识点](https://github.com/stevenli91748/Message-Server-System/blob/master/Kafka/Interview/README.md)
 
-[精尽 Kafka 学习指南](http://svip.iocoder.cn/Kafka/tutorials/)|[安装kafka集群](https://www.kancloud.cn/suixiaofeng/linux/895363)|
----|---|
+[精尽 Kafka 学习指南](http://svip.iocoder.cn/Kafka/tutorials/)|[安装kafka集群](https://www.kancloud.cn/suixiaofeng/linux/895363)|[kafka 基础知识(写的还不错哟)](https://www.jianshu.com/p/9389fcc51040)|
+---|---|---|
 
 [中华石彬---Kafka消息中间件内核源码深度剖析](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_60687291e4b09134c98517fe/6)|
 ---|
