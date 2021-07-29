@@ -3,8 +3,8 @@
 [精尽 Kafka 学习指南](http://svip.iocoder.cn/Kafka/tutorials/)|[安装kafka集群](https://www.kancloud.cn/suixiaofeng/linux/895363)|[kafka 基础知识(写的还不错哟)](https://www.jianshu.com/p/9389fcc51040)|
 ---|---|---|
 
-[中华石彬---Kafka消息中间件内核源码深度剖析](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_60687291e4b09134c98517fe/6)|
----|
+[中华石彬---Kafka消息中间件内核源码深度剖析](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_60687291e4b09134c98517fe/6)|[阿里资深架构师仅用8个知识点带你参透Kafka！](https://www.jianshu.com/p/e55121d23400)|
+---|---|
 
 
 [大白话 + 13 张图解 Kafka](https://zhuanlan.zhihu.com/p/103276657?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
