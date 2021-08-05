@@ -6,7 +6,7 @@
 
 **削峰填谷：当系统遇到大流量时，监控图上会看到一个一个的山峰样的流量图，通过使用消息中间件将大流量的请求放入队列，通过消费者程序将队列中的处理请求慢慢消化，达到消峰填谷的效果。最典型的场景是秒杀系统，在电商的秒杀系统中下单服务往往会是系统的瓶颈，因为下单需要对库存等做数据库操作，需要保证强一致性，此时使用消息中间件进行下单排队和流控，让下单服务慢慢把队列中的单处理完，保护下单服务，以达到削峰填谷的作用。**
 
-
+<a href="https://ibb.co/GWFxZQH"><img src="https://i.ibb.co/jyH6CkJ/image.webp" alt="image" border="0"></a>
 
 
 # [Message-Server-System 面试](https://github.com/stevenli91748/Message-Server-System/blob/master/Interview/README.md)
