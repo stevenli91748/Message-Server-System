@@ -10,6 +10,14 @@
 [大白话 + 13 张图解 Kafka](https://zhuanlan.zhihu.com/p/103276657?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
 ---|
 
+# Mybird
+* [Kafka API使用](https://mrbird.cc/Kafka-API%E4%BD%BF%E7%94%A8.html)
+* [Kafka消费者](https://mrbird.cc/Kafka%E6%B6%88%E8%B4%B9%E8%80%85.html)
+* [Kafka生产者](https://mrbird.cc/Kafka%E7%94%9F%E4%BA%A7%E8%80%85.html)
+* [Kafka存储机制](https://mrbird.cc/Kafka%E5%AD%98%E5%82%A8%E6%9C%BA%E5%88%B6.html)
+* [Kafka入门](https://mrbird.cc/Kafka%E5%85%A5%E9%97%A8.html)
+
+
 # Kafka 视频
 * [Kafka消息中间件内核源码深度剖析---收费视频 中华石杉](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_60687291e4b09134c98517fe/6)
 *  [尚硅谷大数据课程之Kafka（2019新版](https://www.bilibili.com/video/av65544753/?spm_id_from=333.788.videocard.1)
