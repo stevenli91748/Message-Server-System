@@ -1,4 +1,11 @@
 
+# 在线书籍
+
+* [RocketMQ实战与原理解析](https://weread.qq.com/web/reader/9f8323707155b8429f8cc60kc81322c012c81e728d9d180)
+
+
+# 目录
+
 [精尽 RocketMQ 学习指南](http://svip.iocoder.cn/RocketMQ/tutorials/)|[基于RocketMQ的互联网酒店预订系统项目实战---真实的实战环境](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_5fd03fb3e4b04db7c093b40c/6)|
 ---|---|
 
