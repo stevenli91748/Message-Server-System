@@ -1,8 +1,8 @@
 
 # 在线书籍
 
-* [RocketMQ实战与原理解析](https://weread.qq.com/web/reader/9f8323707155b8429f8cc60kc81322c012c81e728d9d180)
-
+* [RocketMQ实战与原理解析---2020](https://weread.qq.com/web/reader/9f8323707155b8429f8cc60kc81322c012c81e728d9d180)
+* [RocketMQ分布式消息中间件---2020](https://weread.qq.com/web/reader/27032d5071fd5a9927003b8)
 
 # 目录
 
