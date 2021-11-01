@@ -2,6 +2,11 @@
 
 # [消息中间件MQ与RabbitMQ面试题](https://github.com/stevenli91748/Message-Server-System/blob/master/RabbitMQ/Interview/README.md)
 
+# 在线书籍
+* [深入RabbitMQ](https://weread.qq.com/web/reader/80c32e0071dbdd9580c74f2)
+* [RabbitMQ实战指南](https://weread.qq.com/web/reader/2aa321c0811e39a3bg0104b3)
+
+
 [精尽 RabbitMQ 学习指南](http://svip.iocoder.cn/RabbitMQ/tutorials/)|
 ---|
 
