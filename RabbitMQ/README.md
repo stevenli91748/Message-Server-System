@@ -7,8 +7,8 @@
 * [RabbitMQ实战指南](https://weread.qq.com/web/reader/2aa321c0811e39a3bg0104b3)
 
 
-[精尽 RabbitMQ 学习指南](http://svip.iocoder.cn/RabbitMQ/tutorials/)|
----|
+[精尽 RabbitMQ 学习指南](http://svip.iocoder.cn/RabbitMQ/tutorials/)|[RabbitMQ Java入门教程](https://www.kancloud.cn/digest/rabbitmq-for-java)|
+---|---|
 
 [RabbitMQ Server的安装](https://www.jianshu.com/p/f20729534088)|
 ---|
