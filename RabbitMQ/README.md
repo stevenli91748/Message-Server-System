@@ -10,8 +10,8 @@
 [精尽 RabbitMQ 学习指南](http://svip.iocoder.cn/RabbitMQ/tutorials/)|[RabbitMQ Java入门教程](https://www.kancloud.cn/digest/rabbitmq-for-java)|
 ---|---|
 
-[RabbitMQ Server的安装](https://www.jianshu.com/p/f20729534088)|
----|
+[RabbitMQ Server的安装](https://www.jianshu.com/p/f20729534088)|[连RabbitMQ的5种核心消息模式都不懂，也敢说自己会用消息队列](http://www.macrozheng.com/#/reference/rabbitmq_start)|
+---|---|
 
 
 # RabbitMQ视频
