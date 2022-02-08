@@ -34,6 +34,7 @@
 * [帅呆了！Kafka移除了Zookeeper！](https://zhuanlan.zhihu.com/p/368600560)
 * [Kafka，Mq，Redis作为消息队列使用时的差异？](https://www.zhihu.com/question/43557507)
 * [kafka入门：简介，使用场景，原理以及集群配置](https://blog.csdn.net/dw147258dw/article/details/92958999)
+* [入门Kafka，讲真的，你看这一篇准没错！](https://zhuanlan.zhihu.com/p/344294881)
 * [kafka storm 干货](https://blog.csdn.net/qq_27384769/article/details/80113336)
 * [Kafka面试题！掌握它才说明你真正懂Kafka](https://mp.weixin.qq.com/s?__biz=MzA5NTUzNTA2Mw==&mid=2454933508&idx=1&sn=f993f90fd83c0eca8cd1b15a9b6db017&scene=21#wechat_redirect)
 * [Kafka 知识点大全](http://dockone.io/article/10017)
