@@ -22,6 +22,6 @@
 * [BATJ面试必问的MQ消息丢失和消息重复的解决方案与实战](https://www.bilibili.com/video/av55175257?from=search&seid=10510532406565911924)
 
 # 有用的参考
-
+* [RabbitMQ实现即时通讯居然如此简单！连后端代码都省得写了？](http://www.macrozheng.com/#/reference/rabbitmq_mqtt_start)
 * [消息中间件MQ与RabbitMQ面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104588612)
 * [RabbitMQ延迟消息的极限是多少](http://blog.didispace.com/rabbitmq-deplay-message-max/)
