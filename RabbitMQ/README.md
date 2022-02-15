@@ -23,5 +23,6 @@
 
 # 有用的参考
 * [RabbitMQ实现即时通讯居然如此简单！连后端代码都省得写了？](http://www.macrozheng.com/#/reference/rabbitmq_mqtt_start)
+* [花了3天总结的RabbitMQ实用技巧，有点东西！](https://mp.weixin.qq.com/s/qGg3etLnI38i-G8aFbulWw)
 * [消息中间件MQ与RabbitMQ面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104588612)
 * [RabbitMQ延迟消息的极限是多少](http://blog.didispace.com/rabbitmq-deplay-message-max/)
