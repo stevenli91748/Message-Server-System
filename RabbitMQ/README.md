@@ -22,6 +22,7 @@
 * [BATJ面试必问的MQ消息丢失和消息重复的解决方案与实战](https://www.bilibili.com/video/av55175257?from=search&seid=10510532406565911924)
 
 # 有用的参考
+* [Centos7部署3节点RabbitMQ镜像队列集群](https://www.jianshu.com/p/cbafd8d4d304)
 * [手把手教你搭建 RabbitMQ 集群](https://www.jianshu.com/p/ad016e43b963)
 * [RabbitMQ实现即时通讯居然如此简单！连后端代码都省得写了？](http://www.macrozheng.com/#/reference/rabbitmq_mqtt_start)
 * [花了3天总结的RabbitMQ实用技巧，有点东西！](https://mp.weixin.qq.com/s/qGg3etLnI38i-G8aFbulWw)
