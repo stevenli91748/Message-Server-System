@@ -22,6 +22,7 @@
 * [BATJ面试必问的MQ消息丢失和消息重复的解决方案与实战](https://www.bilibili.com/video/av55175257?from=search&seid=10510532406565911924)
 
 # 有用的参考
+* [RabbitMQ实现延迟消息居然如此简单，整个插件就完事了！](http://www.macrozheng.com/#/technology/rabbitmq_delay)
 * [Centos7服务器上RabbitMQ单机安装](https://www.jianshu.com/p/1004b443fea9)
 * [Centos7部署3节点RabbitMQ镜像队列集群](https://www.jianshu.com/p/cbafd8d4d304)
 * [手把手教你搭建 RabbitMQ 集群](https://www.jianshu.com/p/ad016e43b963)
