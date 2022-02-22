@@ -31,6 +31,7 @@
 *  [尚硅谷大数据课程之Kafka（2019新版](https://www.bilibili.com/video/av65544753/?spm_id_from=333.788.videocard.1)
 *  [Kafka流处理平台](https://www.imooc.com/learn/1043)
 # 有用的参考
+* [SpringBoot集成kafka全面实战](https://www.jianshu.com/p/b30cbeb400a1)
 * [「中间件」 - MQ & Kafka简介](https://zhuanlan.zhihu.com/p/67967038)
 * [帅呆了！Kafka移除了Zookeeper！](https://zhuanlan.zhihu.com/p/368600560)
 * [Kafka，Mq，Redis作为消息队列使用时的差异？](https://www.zhihu.com/question/43557507)
