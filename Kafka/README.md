@@ -5,8 +5,8 @@
 * [Kafka并不难学](https://weread.qq.com/web/reader/bb03287071848770bb0d2c4)
 
 
-[精尽 Kafka 学习指南](http://svip.iocoder.cn/Kafka/tutorials/)|[安装kafka集群](https://www.kancloud.cn/suixiaofeng/linux/895363)|[kafka 基础知识(写的还不错哟)](https://www.jianshu.com/p/9389fcc51040)|[Kafka](https://www.kancloud.cn/zlt2000/microservices-platform/2104312)|
----|---|---|---|
+[精尽 Kafka 学习指南](http://svip.iocoder.cn/Kafka/tutorials/)|[安装kafka集群](https://www.kancloud.cn/suixiaofeng/linux/895363)|[kafka 基础知识(写的还不错哟)](https://www.jianshu.com/p/9389fcc51040)|[Kafka](https://www.kancloud.cn/zlt2000/microservices-platform/2104312)|[Spring Boot Kafka Tutorial with example](https://www.javainuse.com/messaging/kafka)|
+---|---|---|---|---|
 
 [中华石彬---Kafka消息中间件内核源码深度剖析](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_60687291e4b09134c98517fe/6)|[阿里资深架构师仅用8个知识点带你参透Kafka！](https://www.jianshu.com/p/e55121d23400)|
 ---|---|
