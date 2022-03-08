@@ -7,6 +7,9 @@
 * [RabbitMQ实战指南](https://weread.qq.com/web/reader/2aa321c0811e39a3bg0104b3)
 
 
+[Spring Boot + RabbitMQ Tutorial](https://www.javainuse.com/messaging/rabbitmq)|
+---|
+
 [精尽 RabbitMQ 学习指南](http://svip.iocoder.cn/RabbitMQ/tutorials/)|[RabbitMQ Java入门教程](https://www.kancloud.cn/digest/rabbitmq-for-java)|
 ---|---|
 
