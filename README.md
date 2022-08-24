@@ -13,8 +13,8 @@
 
 
 # 目录
-[消息队列对比参照表](https://www.kancloud.cn/zlt2000/microservices-platform/1023348)|
----|
+[消息队列对比参照表](https://www.kancloud.cn/zlt2000/microservices-platform/1023348)|[MQ 消息丢失、重复、积压问题，如何解决](https://mp.weixin.qq.com/s/vjlirhG7o2olGS4r6cn2ZQ)|
+---|---|
 
 [什么是消息队列？](https://juejin.im/post/6844903817348136968)|[云原生时代消息中间件的演进路线](https://www.kubernetes.org.cn/8305.html)|[MQ 主流的MQ的对比与业务选型](https://www.jianshu.com/p/0b1d1fe84e70)|
 ---|---|---|
