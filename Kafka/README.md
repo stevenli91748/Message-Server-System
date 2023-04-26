@@ -15,8 +15,8 @@
 ---|
 
 
-[大白话 + 13 张图解 Kafka](https://zhuanlan.zhihu.com/p/103276657?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
----|
+[大白话 + 13 张图解 Kafka](https://zhuanlan.zhihu.com/p/103276657?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[图解 Kafka，画得太好了！](https://segmentfault.com/a/1190000040104967?utm_source=sf-similar-article)|
+---|---|
 
 # Mybird
 * [Kafka API使用](https://mrbird.cc/Kafka-API%E4%BD%BF%E7%94%A8.html)
